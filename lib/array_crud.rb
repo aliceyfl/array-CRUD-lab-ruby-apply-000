@@ -1,8 +1,9 @@
 def create_an_empty_array
   [ ]
 end
-  [ aaaa ]
-def create_an_array
+  [ ][ ][ ][ ] 
+  
+  def create_an_array
   
 end
 
